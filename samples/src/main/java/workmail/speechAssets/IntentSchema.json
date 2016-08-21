@@ -1,0 +1,17 @@
+{
+  "intents": [
+    {
+      "intent": "TodaySchedule"
+    },
+    {
+      "intent": "CalendarStatus"
+    },
+    {
+      "intent": "Email",
+      "slots": {
+        "name": "Number",
+        "type": "LIST_OF_NUMBERS"
+      }
+    }
+  ]
+}

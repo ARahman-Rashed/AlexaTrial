@@ -1,0 +1,9 @@
+CalendarStatus What is my calendar status today
+CalendarStatus Am I free today
+CalendarStatus Do I have any meetings today
+TodaySchedule what is today's schedule
+TodaySchedule What are today's meetings
+TodaySchedule Tell me my today's meetings
+TodaySchedule yes Tell me my today's meetings
+Email read my last email
+Email read my last {Number} emails
